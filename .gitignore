@@ -2,17 +2,14 @@
 .idea
 *.iml
 
-# Client Dependency Generated
+# Client Generated
 client/node_modules/
-client/typings/
-client/node/
+client/tools/
+client/dist/
 
 # Server Generated
-server/build/
-
-# Typescript Compiler Generated
-client/app/**/*.js
-client/app/**/*.js.map
+server/target/
+server/out/
 
 # Gradle Generated
 .gradle/

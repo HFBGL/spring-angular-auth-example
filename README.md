@@ -1,10 +1,10 @@
-# Spring Angular 2 Auth Example #
+# Spring Angular Auth Example #
 
-This repo shows an authentication application using Spring Boot and Angular 2.
+This repo shows an authentication application using Spring Boot and Angular.
 
 ## Technologies ##
 * [Spring Boot](https://spring.io/)
-* [Angular 2](http://angular.io/)
+* [Angular](http://angular.io/)
 * [RxJS](http://reactivex.io/rxjs/)
 * [Hibernate](http://hibernate.org/)
 * [H2 Database](http://www.h2database.com/html/main.html)
@@ -13,7 +13,6 @@ This repo shows an authentication application using Spring Boot and Angular 2.
 ## Prerequisites ##
 * [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [JDK ](https://www.java.com/en/download/)
-* [Gradle](https://gradle.org/)
 
 ## Run this project ##
 1 . Clone project on your machine
@@ -26,11 +25,11 @@ cd spring-angular2-auth-example
 ```
 3 . Build project
 ```
-gradle buildRoot
+gradlew buildRoot
 ```
 4 . Start the server
 ```
-gradle bootRun
+gradlew bootRun
 ```
 5 . Open a new terminal and start the client
 ```
