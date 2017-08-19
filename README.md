@@ -17,7 +17,7 @@ This repo shows an authentication application using Spring Boot and Angular.
 ## Run this project ##
 1 . Clone project on your machine
 ```
-git clone https://github.com/mihaesandrei/spring-angular2-auth-example.git
+git clone https://github.com/mihaesandrei/spring-angular-auth-example.git
 ```
 2 . Change directory
 ```
